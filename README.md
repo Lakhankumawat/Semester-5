@@ -1,4 +1,7 @@
 <hr>
+<h3 align="center"><a href="https://github.com/Lakhankumawat/Semester-5/archive/refs/heads/main.zip">Click here to download zip</a></h3>
+<hr>
+<hr>
 <h3 align="center">A 🌟 to repo would be delightful, just do it ✔️ it is inexpensive.</h3>
 <hr>
   <h2 align="center">All Assignments , Quizzes and Exam papers at one place with clean and elegant solutions totally correct and verified by branch toppers.</h2>
